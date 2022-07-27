@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f4ff09;
+  background: #ff17ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2565,7 +2565,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("images/background.jpg");
+  background: url("https://cn.bing.com/images/search?view=detailV2&ccid=N8YQE3mF&id=F6D16C47B87D27A8343400188092F9F15F8C9A01&thid=OIP.N8YQE3mFGnh45Cg2Ng0mkgHaFj&mediaurl=https%3A%2F%2Fts1.cn.mm.bing.net%2Fth%2Fid%2FR-C.37c6101379851a7878e42836360d2692%3Frik%3DAZqMX%252fH5koAYAA%26riu%3Dhttp%253a%252f%252fimg10.viwik.com%252f20190417%252ftooopen_sy_102917291733198.jpg%26ehk%3DgtCbTtgnlv3krq1r2iLChV7wOP2VY57cHa%252boxX%252byzGA%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=768&expw=1024&q=%e6%98%9f%e7%a9%ba%e8%83%8c%e6%99%af%e5%9b%be%e7%89%87&simid=608000694725592628&form=IRPRST&ck=9CD6289B142CFD765DE95127C8815217&selectedindex=38&ajaxhist=0&ajaxserp=0&vt=0&sim=11");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
